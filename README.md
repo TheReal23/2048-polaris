@@ -1,2 +1,2 @@
 # 2048-polaris
-Same as 2048 but now with a NEW theme!
+This kind of 2048 has many variants
